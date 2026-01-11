@@ -1,6 +1,8 @@
 title: Finance with Yash
 description: Enthusiastic equity research and financial analysis platform focused on understanding businesses, valuations, and markets.
 
+theme: jekyll-theme-cayman
+
 nav:
   - title: Home
     url: /
@@ -10,3 +12,4 @@ nav:
     url: /equity-research/
   - title: Disclaimer
     url: /disclaimer/
+
