@@ -10,6 +10,10 @@ operating in the cement sector.
 - Demand & capacity analysis
 - Cost structure and margins
 
+## 📄 Download Research Reports
+
+- [Cement Industry – Equity Research Report (PDF)](/assets/reports/Cement%20Industry%20Report.pdf)
+
 ---
 
 ⚠️ Educational purpose only. Not investment advice.
