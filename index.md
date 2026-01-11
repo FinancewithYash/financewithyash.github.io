@@ -6,5 +6,6 @@ Finance with Yash is an enthusiastic equity research and financial analysis plat
 - Company analysis
 - Valuation concepts (DCF, ratios)
 - Market & global financial updates
-
-⚠️ This content is for educational purposes only. Not investment advice.
+---
+⚠️ **Disclaimer:** This website is for educational purposes only.  
+[Read full disclaimer](/disclaimer/)
