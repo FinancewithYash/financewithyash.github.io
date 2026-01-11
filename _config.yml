@@ -1,2 +1,12 @@
 title: Finance with Yash
-description: Independent equity research and market insights
+description: Enthusiastic equity research and financial analysis platform focused on understanding businesses, valuations, and markets.
+
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Equity Research
+    url: /equity-research/
+  - title: Disclaimer
+    url: /disclaimer/
