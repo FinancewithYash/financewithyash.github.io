@@ -1,18 +1,32 @@
-# Equity Research Reports
+# Equity Research
 
-Welcome to the equity research section of *Finance with Yash*.
+Welcome to the equity research section of **Finance with Yash**.
 
-Here you’ll find company-specific research reports, sector analysis,
-and valuation-based studies.
+This section contains sector-wise equity research, company analysis,
+and valuation-based studies across key industries of the economy.
 
 ---
 
-## 📌 Research List
+## 📂 Sector-wise Research
+
+- 🏭 [Cement Sector](./cement/)
+- 🧪 [Chemicals Sector](./chemicals/)
+- 🚗 [Automobile Sector](./automobile/)
+- 🏦 [Banking Sector](./banking/)
+- 💻 [IT Sector](./it/)
+- 💊 [Pharmaceutical Sector](./pharma/)
+- 🛒 [FMCG Sector](./fmcg/)
+- 🔩 [Metals & Mining Sector](./metals/)
+- ⚡ [Power & Energy Sector](./energy/)
+
+---
+
+## 📄 Individual Research Reports
 
 - [Sample Equity Research Report](./first-equity-report)
 
-*(More reports will be added regularly.)*
+*(More company and sector reports will be added regularly.)*
 
 ---
 
-⚠️ Educational purpose only. Not investment advice.
+⚠️ **Educational purpose only. Not investment advice.**
