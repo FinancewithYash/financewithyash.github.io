@@ -1,2 +1,2 @@
-PDF research reports will be stored here.
+PDF research reports will be stored here
 
