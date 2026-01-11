@@ -1,3 +1,5 @@
+[Home](/) | [About](/about/) | [Equity Research](/equity-research/) | [Disclaimer](/disclaimer/)
+---
 # Finance with Yash
 Finance with Yash is an enthusiastic equity research and financial analysis platform driven by curiosity about businesses, markets, and valuations. The goal is to explore companies, understand financials, and share market insights in a clear and practical way for learning and discussion.
 
